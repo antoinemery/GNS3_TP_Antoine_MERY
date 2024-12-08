@@ -98,7 +98,9 @@ VPCS> ping 10.1.1.2
 ------------------------------------------------------------------------
 
 **Wireshark !**
+
 [étape1.pcapng](étape1.pcapng)
+
 C'est le protocole **ICMP** qui est utilisé pour le message **ping**.
 
 **ARP**
@@ -284,7 +286,7 @@ MTU         : 1500
 
 **Wireshark !**
 
-# METTRE 2eme capture WIRESHARK !!!!
+[wireshark dora.pcapng](wireshark dora.pcapng)
 
 **Configurez dnsmasq**
 - insallation de dnsmasq
