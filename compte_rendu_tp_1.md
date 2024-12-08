@@ -328,7 +328,7 @@ DORA IP 10.1.1.21/24 GW 10.1.1.1
 **Wireshark !**
 
 [DHCP_Spoof.pcapng](DHCP_Spoof.pcapng)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 3. BONUS : DHCP starvation
 
 Une attaque très débile et simple à mettre en place pour **DOS l'accès à un LAN** s'il n'y a pas de protections particulières. **C'est naze, mais c'est là** :d
