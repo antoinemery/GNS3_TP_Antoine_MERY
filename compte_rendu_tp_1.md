@@ -325,7 +325,7 @@ DDORA IP 10.1.1.247/24 GW 10.1.1.50
 PC4> dhcp
 DORA IP 10.1.1.21/24 GW 10.1.1.1
 ````
-🌞 **Wireshark !**
+**Wireshark !**
 
 [DHCP_Spoof.pcapng](DHCP_Spoof.pcapng)
 
