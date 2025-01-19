@@ -8,7 +8,6 @@ Allez, c'est la partie avec plein d'acronymes.
   - [Sommaire](#sommaire)
   - [1. DHCP](#1-dhcp)
   - [2. DNS](#2-dns)
-- ["C:\\Users\\antoi\\GNS3\\projects\\TP 3\\TP\_3\_GNS3\\TP3\_autres\_parties\\project-files\\captures\\requetes\_DNS\_filtrees\_etape\_3-TP3.pcap"](#cusersantoigns3projectstp-3tp_3_gns3tp3_autres_partiesproject-filescapturesrequetes_dns_filtrees_etape_3-tp3pcap)
   - [3. HTTP](#3-http)
   - [Go next](#go-next)
 
@@ -95,7 +94,7 @@ efrei.fr resolved to 51.255.68.208
 
 🌞 **Capture Wireshark**
 
-# "C:\Users\antoi\GNS3\projects\TP 3\TP_3_GNS3\TP3_autres_parties\project-files\captures\requetes_DNS_filtrees_etape_3-TP3.pcap"
+[requetes_wireshark](requetes_DNS_filtrees_etape_3-TP3.pcap)
 
 - une capture Wireshark où on voit les res deux requêtes DNS d'un de vos clients
 - ainsi que les réponses

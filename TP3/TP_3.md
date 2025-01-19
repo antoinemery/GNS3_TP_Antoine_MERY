@@ -15,7 +15,7 @@ PC1> ping 10.3.2.1
 
 🌞 **Capture Wireshark `ping_partie1`**
 
-# `C:\Users\antoi\GNS3\projects\TP 3\TP_3_GNS3\project-files\captures` A mettre !!!!!
+[ping_partie1](R1_FastEthernet10_to_R2_FastEthernet00.pcap)
 
 - **capture entre les deux routeurs pendant que les clients se `ping`**
 - on doit voir :
